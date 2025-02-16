@@ -1,0 +1,12 @@
+id,user,category,cost,date
+0,hello,Essentials,12.12,2025-02-05
+1,hello,Business & Work-Related,12.3,2025-02-05
+2,hello,Discretionary,12.51,2025-02-12
+3,hello,Personal & Family,15.98,2025-02-12
+4,hello,Financial Responsibilities,1600.0,2025-02-12
+5,hello,Financial Responsibilities,1500.0,2025-02-12
+6,hello,Essentials,150.98,2025-02-12
+7,hello,Discretionary,15.98,2025-02-12
+8,hello,Personal & Family,159.99,2025-02-12
+9,monkey,Personal & Family,12.99,2025-02-12
+10,monkey,Business & Work-Related,20000.0,2025-02-12
